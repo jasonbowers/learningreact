@@ -1,6 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./cat.png";
+import "./App.css";
+import ItemName from "./Components/name.js";
 
 function App() {
   return (
@@ -8,16 +9,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hi Myles. I'm learning react and found a good way to publish dev
+          builds of the front-end.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>The following text will be pulled from the CollegeSafe server:</p>
+        <ItemName></ItemName>
       </header>
     </div>
   );
