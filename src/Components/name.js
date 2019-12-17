@@ -11,7 +11,7 @@ class ItemName extends Component {
   }
 
   async getPage() {
-    fetch("http://collegesafe.herokuapp.com/api/items")
+    fetch("https://collegesafe.herokuapp.com/api/items")
       .then(response => response.json())
       .then(jsonData => {
         console.log(jsonData[0]["name"]);
