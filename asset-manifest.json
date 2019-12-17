@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jasonbowers/learningreact/static/css/main.d1b05096.chunk.css",
-    "main.js": "/jasonbowers/learningreact/static/js/main.5f5835aa.chunk.js",
-    "main.js.map": "/jasonbowers/learningreact/static/js/main.5f5835aa.chunk.js.map",
-    "runtime-main.js": "/jasonbowers/learningreact/static/js/runtime-main.be389fc2.js",
-    "runtime-main.js.map": "/jasonbowers/learningreact/static/js/runtime-main.be389fc2.js.map",
-    "static/js/2.552fcbf2.chunk.js": "/jasonbowers/learningreact/static/js/2.552fcbf2.chunk.js",
-    "static/js/2.552fcbf2.chunk.js.map": "/jasonbowers/learningreact/static/js/2.552fcbf2.chunk.js.map",
-    "index.html": "/jasonbowers/learningreact/index.html",
-    "precache-manifest.48ca6ebcf7b8ff448074f44d48bcb2ac.js": "/jasonbowers/learningreact/precache-manifest.48ca6ebcf7b8ff448074f44d48bcb2ac.js",
-    "service-worker.js": "/jasonbowers/learningreact/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/jasonbowers/learningreact/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.552fcbf2.chunk.js.LICENSE": "/jasonbowers/learningreact/static/js/2.552fcbf2.chunk.js.LICENSE",
-    "static/media/logo.svg": "/jasonbowers/learningreact/static/media/logo.5d5d9eef.svg"
+    "main.css": "/learningreact/static/css/main.d1b05096.chunk.css",
+    "main.js": "/learningreact/static/js/main.18550d24.chunk.js",
+    "main.js.map": "/learningreact/static/js/main.18550d24.chunk.js.map",
+    "runtime-main.js": "/learningreact/static/js/runtime-main.f3b2d38c.js",
+    "runtime-main.js.map": "/learningreact/static/js/runtime-main.f3b2d38c.js.map",
+    "static/js/2.552fcbf2.chunk.js": "/learningreact/static/js/2.552fcbf2.chunk.js",
+    "static/js/2.552fcbf2.chunk.js.map": "/learningreact/static/js/2.552fcbf2.chunk.js.map",
+    "index.html": "/learningreact/index.html",
+    "precache-manifest.af1750bbdaff32d8e43e38b4de1d3398.js": "/learningreact/precache-manifest.af1750bbdaff32d8e43e38b4de1d3398.js",
+    "service-worker.js": "/learningreact/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/learningreact/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.552fcbf2.chunk.js.LICENSE": "/learningreact/static/js/2.552fcbf2.chunk.js.LICENSE",
+    "static/media/logo.svg": "/learningreact/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be389fc2.js",
+    "static/js/runtime-main.f3b2d38c.js",
     "static/js/2.552fcbf2.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.5f5835aa.chunk.js"
+    "static/js/main.18550d24.chunk.js"
   ]
 }
